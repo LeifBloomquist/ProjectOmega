@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Omega DB25 R8
+*Date=22:33:24
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;100nF;100 mil [THT, multilayer];25.2282;-20.6665;180;Bottom;C1
+2;;;54.4382;-33.3665;0;Bottom;VIN1
+3;100nF;100 mil [THT, multilayer];18.8782;-24.4765;180;Bottom;C3
+4;3.3V;TO220 [THT];50.3742;-20.6665;-90;Bottom;Note the pinouts are all wrong (see LD1117V33.pdf datasheet)
+5;;;51.8982;-33.3665;0;Bottom;Hole5
+6;100nF;100 mil [THT, multilayer];32.8482;-20.6665;180;Bottom;C2
+7;;;25.4769;-29.2619;-90;Bottom;O2
+8;100nF;100 mil [THT, multilayer];18.8782;-29.5565;180;Bottom;C5
+9;100nF;100 mil [THT, multilayer];18.8782;-27.0165;180;Bottom;C4
+10;;dil16;32.8482;-27.0165;0;Bottom;MAX3232
+11;;;25.8539;-25.9919;0;Bottom;TXT1
+12;;;49.7813;-36.2423;0;Bottom;TXT2
+13;;;46.8182;-33.3665;0;Bottom;Hole4
+14;;;49.3582;-28.2865;0;Bottom;Hole6
+15;;;27.0848;-36.5064;0;Bottom;TXT1
+16;;db25;27.432;-5.7765;0;Bottom;X1
+17;;;27.414;-5.13099;0;Bottom;TXT1
